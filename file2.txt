@@ -1,3 +1,6 @@
  
 Welcome to GIT
-Next line to to be commited. Here I have corrected the mistake 
+Next line to to be commited. Here I have corrected the mistake
+new change to commit
+
+new change to check revert 
